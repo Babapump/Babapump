@@ -2,7 +2,7 @@
 - 👀 I’m interested in bootloader unlocking
 - 🌱 I’m currently learning rooting
 - 💞️ I’m looking to collaborate on knowkedge of rooting and bootloader unlock
-- 📫 How to reach me ...whatsapp +2348067700735
+- 📫 How to reach me ...whatsapp +2348067700735 babapumpplus@gmail.com
 
 <!---
 Babapump/Babapump is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
